@@ -1,26 +1,10 @@
-# Core scientific stack
-pandas
-numpy
-
-# Machine Learning
-scikit-learn==1.9.0
-joblib
-
-# Streamlit App
-streamlit
-
-# Visualization (for notebooks)
-matplotlib
-seaborn
-
-# Jupyter (optional but recommended for your cleaning/EDA notebooks)
-jupyterlab
-notebook
-
-# Prevent certain dependency conflicts
-pyyaml
-
-tensorflow 2.21.0
-
-nltk 3.10.0
-
+streamlit==1.47.0
+pandas==2.3.1
+numpy==2.3.2
+scikit-learn==1.7.1
+tensorflow==2.19.0
+nltk==3.9.1
+joblib==1.5.1
+matplotlib==3.10.5
+seaborn==0.13.2
+pyyaml==6.0.2
