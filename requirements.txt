@@ -3,7 +3,8 @@ pandas
 numpy
 
 # Machine Learning
-scikit-learn==1.9.0joblib
+scikit-learn==1.9.0
+joblib
 
 # Streamlit App
 streamlit
