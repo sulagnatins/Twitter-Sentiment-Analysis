@@ -18,3 +18,8 @@ notebook
 
 # Prevent certain dependency conflicts
 pyyaml
+
+tensorflow 2.21.0
+
+nltk 3.10.0
+
